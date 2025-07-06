@@ -1,0 +1,49 @@
+{
+  "cafe": {
+    "name": "Moonstitch Café",
+    "tagline": "Where every cup tells a story.",
+    "location": "Mall Road, Ranikhet, Uttarakhand - 263645",
+    "hours": {
+      "monday_to_sunday": "8:00 AM – 9:00 PM"
+    },
+    "contact": {
+      "phone": "+91-9876543210",
+      "email": "info@moonstitch.in",
+      "instagram": "@moonstitch_cafe",
+      "website": "www.moonstitch.in"
+    },
+    "about": "Moonstitch Café is a cozy café in Ranikhet offering artisan coffee, handcrafted snacks, and peaceful mountain-view seating. Whether you're working, relaxing, or meeting friends — we have the perfect cup for every mood.",
+    "specialties": [
+      "Artisan Coffee",
+      "Herbal Teas",
+      "Baked Goods",
+      "Mountain View Seating",
+      "Free Wi-Fi & Charging"
+    ],
+    "mission": "To serve warmth, quality, and comfort in every cup.",
+    "vision": "To become Ranikhet’s favorite destination for coffee lovers and creatives.",
+    "values": ["Freshness", "Sustainability", "Community", "Creativity"],
+    "staff": {
+      "owner": "Nakul Nainwal",
+      "barista_lead": "Ramesh Joshi",
+      "chef": "Pooja Rawat"
+    },
+    "events": [
+      "Open Mic Fridays",
+      "Book Club Sundays",
+      "Seasonal Coffee & Art Workshops"
+    ],
+    "menu": [
+      { "item": "Hazelnut Cappuccino", "price": "₹180" },
+      { "item": "Spicy Veg Sandwich", "price": "₹150" },
+      { "item": "Blueberry Waffle", "price": "₹200" },
+      { "item": "Masala Chai", "price": "₹90" },
+      { "item": "Himalayan Hot Chocolate", "price": "₹160" }
+    ],
+    "notes": [
+      "Locally sourced ingredients",
+      "Biodegradable packaging",
+      "Pet-friendly and cozy space"
+    ]
+  }
+}
